@@ -1,0 +1,6 @@
+[submodule "dllLoader"]
+	path = dllLoader
+	url = https://github.com/FNSOIDATHQ/dllLoaderArmada.git
+[submodule "shaderPlus"]
+	path = shaderPlus
+	url = https://github.com/FNSOIDATHQ/shaderPlusArmada.git
