@@ -4,3 +4,6 @@
 [submodule "shaderPlus"]
 	path = shaderPlus
 	url = https://github.com/FNSOIDATHQ/shaderPlusArmada.git
+[submodule "hookTools"]
+	path = hookTools
+	url = https://github.com/FNSOIDATHQ/hookTools.git
